@@ -1,0 +1,15 @@
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\bin\Debug\net6.0\suportes_balanceados.exe
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\bin\Debug\net6.0\suportes_balanceados.deps.json
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\bin\Debug\net6.0\suportes_balanceados.runtimeconfig.json
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\bin\Debug\net6.0\suportes_balanceados.dll
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\bin\Debug\net6.0\suportes_balanceados.pdb
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\suportes_balanceados.csproj.AssemblyReference.cache
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\suportes_balanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\suportes_balanceados.AssemblyInfoInputs.cache
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\suportes_balanceados.AssemblyInfo.cs
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\suportes_balanceados.csproj.CoreCompileInputs.cache
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\suportes_balanceados.dll
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\refint\suportes_balanceados.dll
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\suportes_balanceados.pdb
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\suportes_balanceados.genruntimeconfig.cache
+C:\Users\jorge.aranha\Documents\Projetos\suportes_balanceados\obj\Debug\net6.0\ref\suportes_balanceados.dll
